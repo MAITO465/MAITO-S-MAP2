@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Maito\'s Map 2</string>
+    <string name="btn_open_map">Voir Historique sur la Carte</string>
+    <string name="title_activity_maps">Historique des Positions</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyRandomKeyMaitoMap2XyZ_1234567890</string>
+</resources>

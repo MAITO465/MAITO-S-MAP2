@@ -1,5 +1,7 @@
 # MAITO'S MAP 2 📍
 
+> ### Auteur : AIT OURAJLI MOHAMED
+
 Bienvenue dans le dépôt du projet **MAITO'S MAP 2**. Ce projet est une implémentation complète du LAB 12 qui combine la récupération de coordonnées GPS en temps réel, leur sauvegarde sur un serveur distant (Backend PHP/MySQL), et leur affichage chronologique sur une carte interactive (Google Maps).
 
 ## 📸 Aperçu du Projet
